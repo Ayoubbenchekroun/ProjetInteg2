@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8adb3998.css",
+    "main.js": "/static/js/main.a8128756.js",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/p2.png": "/static/media/p2.b41f8e212cfe3079a0e9.png",
+    "static/media/network.png": "/static/media/network.7deb539d0303413c1704.png",
+    "static/media/p6.png": "/static/media/p6.c06c1a4688e52c9ebb43.png",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/p1.png": "/static/media/p1.d07bf4694c00e6dbe7bd.png",
+    "static/media/ava-1.jpg": "/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/p3.png": "/static/media/p3.9664baedac88570525c7.png",
+    "static/media/ava-3.jpg": "/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/location.png": "/static/media/location.c2a808618ecbf53c92bc.png",
+    "static/media/p5.png": "/static/media/p5.3015431b80106b4ebba3.png",
+    "static/media/product_3.1.jpg": "/static/media/product_3.1.9c207cdf68c9700b11ce.jpg",
+    "static/media/product_2.2.jpg": "/static/media/product_2.2.4967c9cbe3fec366a31a.jpg",
+    "static/media/banner-02.jpg": "/static/media/banner-02.30c6a0a36f94f07fac28.jpg",
+    "static/media/p4.png": "/static/media/p4.be420b732f719a442cd6.png",
+    "static/media/p7.png": "/static/media/p7.126a8961ed5e8289df88.png",
+    "static/media/ava-2.jpg": "/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/product_4.2.jpg": "/static/media/product_4.2.e82e43e0a3fc5dab999e.jpg",
+    "static/media/product_4.1.jpg": "/static/media/product_4.1.3c8ecc492220a3922731.jpg",
+    "static/media/hero.jpg": "/static/media/hero.f4a3d10ace0c06589c5c.jpg",
+    "static/media/product_3.2.jpg": "/static/media/product_3.2.ebcb16b50e4ef0060a5e.jpg",
+    "static/media/product_2.1.jpg": "/static/media/product_2.1.f15385546f60c8d0f0d9.jpg",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/res-logo.png": "/static/media/res-logo.0d2678d5920a653dec72.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.8adb3998.css.map": "/static/css/main.8adb3998.css.map",
+    "main.a8128756.js.map": "/static/js/main.a8128756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8adb3998.css",
+    "static/js/main.a8128756.js"
+  ]
+}
